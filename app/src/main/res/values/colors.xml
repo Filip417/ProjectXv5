@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorGradientEnd</color>
+    <color name="colorPrimaryDark">@color/colorGradientEnd</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorTextBox">#92304A5C</color>
+    <color name="colorLoginBtn">#0096FF</color>
+    <color name="colorLoginTxt">#FFFFFF</color>
+    <color name="colorGray">#5CFFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorGradientStart">#281147</color>
+    <color name="colorGradientEnd">#1E618D</color>
+
+    <color name="fragmentBackground">#FFFFFF</color>
+</resources>
