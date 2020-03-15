@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="siema rudy"
+        android:text="Tu będą listy zakupów"
         android:textSize="30sp"
         android:background="@color/fragmentBackground"/>
 
