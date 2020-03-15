@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="SIEMA FILIPv2"
+        android:text="SIEMA SIEMA RUDY"
         android:textSize="30sp"
         android:background="@color/fragmentBackground"/>
 
