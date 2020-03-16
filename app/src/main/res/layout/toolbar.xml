@@ -18,11 +18,33 @@
     app:contentInsetRight="0dp"
     app:contentInsetEnd="0dp">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_person_black"
+            android:layout_weight="1"
+            android:padding="8dp"/>
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tania szama"
+            android:textSize="26sp"
+            android:textColor="@color/colorWhite"
+            android:gravity="center"
+            android:fontFamily="@font/avenir_medium"
+            android:layout_weight="3"/>
 
-
-
-
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_search"
+            android:layout_weight="1"
+            android:padding="8dp" />
+    </LinearLayout>
 
 </androidx.appcompat.widget.Toolbar>

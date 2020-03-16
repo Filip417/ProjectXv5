@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\src\\main\\res\\layout\\fragment_product.xml"
     },
     {
+        "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\font_avenir_medium.otf.flat",
+        "source": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\src\\main\\res\\font\\avenir_medium.otf"
+    },
+    {
         "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
         "source": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black.xml.flat",
+        "source": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\src\\main\\res\\drawable\\ic_person_black.xml"
     },
     {
         "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_list.xml.flat",
@@ -62,6 +70,10 @@
     {
         "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more.xml.flat",
         "source": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\src\\main\\res\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\font_avenir_book.otf.flat",
+        "source": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\src\\main\\res\\font\\avenir_book.otf"
     },
     {
         "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -114,6 +126,10 @@
     {
         "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\font_avenir_roman.otf.flat",
+        "source": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\src\\main\\res\\font\\avenir_roman.otf"
     },
     {
         "merged": "C:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",

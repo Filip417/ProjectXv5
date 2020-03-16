@@ -1,4 +1,4 @@
-#Sun Mar 15 22:11:31 CET 2020
+#Mon Mar 16 09:09:59 CET 2020
 base.0=C\:\\Users\\Cupial\\Desktop\\ProjectXv5\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

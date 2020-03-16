@@ -1066,6 +1066,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_person
+drawable ic_person_black
 drawable ic_search
 drawable loginbtn_background
 drawable logo
@@ -1087,6 +1088,9 @@ drawable notify_panel_notification_icon_bg
 drawable textbox_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font avenir_book
+font avenir_medium
+font avenir_roman
 id ALT
 id CTRL
 id FUNCTION
